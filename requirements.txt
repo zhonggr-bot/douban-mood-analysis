@@ -1,0 +1,7 @@
+beautifulsoup4==4.15.0
+jieba
+matplotlib
+pymysql
+requests==2.34.2
+snownlp
+wordcloud
